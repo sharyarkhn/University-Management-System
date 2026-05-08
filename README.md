@@ -112,8 +112,11 @@ Clean OOP Architecture
 
 📌 Note
 This project was developed as a semester assignment for the Object-Oriented Programming (CSE-211) course at IBA Sukkur University to demonstrate proficiency in GUI design, database management, and software architecture.
+
 🔗 Links
+
 📺 YouTube Demo: [https://youtu.be/EToKcZM5FZY]
+
 💻 GitHub Repository: [(https://github.com/nisar-ahmed01/java-project)](https://github.com/sharyarkhn/University-Management-System)
 
 📌 Note
