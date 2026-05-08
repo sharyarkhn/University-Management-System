@@ -3,8 +3,11 @@ University Management System using Java OOP — a high-performance desktop appli
 
 👨‍💻 Author
 Name: Shahariyar Haider
+
 CMS ID: 023-25-0129
+
 Section: BSCSD
+
 Institution: IBA Sukkur University
 
 📌 Purpose of the Project
