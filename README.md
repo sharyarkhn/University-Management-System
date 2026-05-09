@@ -1,79 +1,95 @@
-🎓 University Management System (Java OOP)
-A high-performance desktop application designed to automate academic workflows, faculty records, and financial transactions. Built with a focus on Object-Oriented Programming and a modern Dark Teal high-tech aesthetic.
+🎓 University Management System (Java OOP Project) University Management System using Java OOP — a high-performance desktop application for managing academic workflows, faculty records, student registrations, and financial transactions. It features a professional high-tech UI, secure database persistence via JDBC, and comprehensive administrative tools.
 
-👨‍💻 Author Information
-Name: Shahariyar Haider
+👨‍💻 Author Name: Shahariyar Haider
 
-CMS ID: 023-25-0129
+CMS ID:023-25-0129
 
-Section: BSCS-D
+Section: BSCSD
 
-Institution: Sukkur IBA University
+Institution: IBA Sukkur University
 
-🎯 Project Overview
-The University Management System streamlines fragmented manual record-keeping into a unified digital environment. It handles the complete lifecycle of students and faculty with high data integrity and secure database persistence.
+📌 Purpose of the Project The University Management System is designed to streamline and automate the complex administrative tasks of a higher education institution. By moving away from fragmented manual record-keeping, this system provides a unified digital environment to manage the lifecycle of both students and faculty.
 
-Key Objectives
-Centralized Administration: Unified platform for institutional control.
+The project focuses on high data integrity and a modern user experience, ensuring that sensitive information like fee submissions and examination results are handled accurately and securely.
 
-Financial Automation: Digital fee submission and tracking.
+🎯 Objectives Centralized Administration: Provide a single platform for student and faculty registration.
 
-Modern Aesthetics: Custom UI using a #0D4459 (Dark Teal) palette.
+Financial Automation: Automate the fee submission process with digital record-keeping.
 
-Data Persistence: Robust JDBC integration for relational data storage.
+Faculty Governance: Track faculty details and manage leave applications digitally.
 
-🧩 Core Modules
-Module	Description
-🔐 Access Control	Secure admin login with role-based navigation.
-📊 Modern Dashboard	The central hub featuring a high-tech dark teal UI.
-👥 Registration	Standardized forms for adding new Students & Faculty.
-📂 Info Management	Comprehensive tools to browse and update records.
-💳 Fee & Finance	Processing and tracking student financial records.
-📝 Examinations	Semester-wise marks entry and digital result generation.
-📅 Leave Management	Dedicated workflow for faculty leave applications.
-🛠️ Technical Stack
-Language: Java (JDK 8+)
+Academic Transparency: Maintain and display detailed examination results for students.
 
-GUI Framework: Java Swing / AWT
+Modern Aesthetics: Deliver a "high-tech" visual experience using a custom dark teal (#0D4459) color palette and rounded UI components.
 
-Database: MySQL
+Data Persistence: Utilize JDBC to ensure all institutional data is stored reliably in a relational database.
 
-API: JDBC (Java Database Connectivity)
+🧩 Main Modules
 
-Architecture: OOP (Inheritance, Encapsulation, Polymorphism)
+🔐 Access Control Module Secure login interface for administrators.
+Role-based navigation to ensure system security.
 
-🚀 Getting Started
-Prerequisites
-Java JDK 8 or higher.
+📊 Modern Dashboard A "high-tech" central hub with a dark teal aesthetic.
+Intuitive navigation links to all management sub-systems.
 
-MySQL Server (XAMPP/WAMP or MySQL Workbench).
+👥 Registration Module (Student & Faculty) Standardized forms for adding new students and faculty members.
+Validation logic to ensure data consistency during entry.
 
-IDE: IntelliJ IDEA, NetBeans, or Eclipse.
+📂 Information Management View Details: Comprehensive tables to browse existing records.
+Update/Modify: Functional tools to edit profile information as needed.
 
-Driver: mysql-connector-java.jar.
+💳 Fee & Finance Module Module for processing student fee submissions.
+Tracking of financial status linked directly to student IDs.
 
-Installation & Setup
-Clone the Repository
+📝 Examination & Results Module Input and storage of marks for various semesters.
+Generation of digital result cards for student evaluation.
 
-Bash
-git clone https://github.com/nisar-ahmed01/java-project.git
-Database Configuration
+📅 Leave Management System Dedicated module for faculty members to track and apply for leaves.
+Simplifies HR processes within the departmental level.
 
-Create a database in MySQL.
+🎨 UI & Styling Module Customized Java Swing components.
+Rounded buttons, modern panels, and a consistent #0D4459 color scheme for a professional look.
+
+🗄️ Database & Logic Layer JDBC integration with MySQL for permanent storage.
+Implementation of OOP principles (Inheritance, Encapsulation) to handle business logic.
+
+▶️ How to Run the Project 🔧 Requirements Java JDK: 8 or higher
+
+IDE: NetBeans / IntelliJ IDEA / Eclipse
+
+Database: MySQL Server
+
+Driver: MySQL Connector/J (JDBC Driver)
+
+🚀 Steps to Run Clone/Import: Import the source code into your preferred Java IDE.
+
+Database Setup: * Create a database in MySQL.
 
 Execute the provided SQL scripts to generate tables for students, faculty, fees, and results.
 
-Update Credentials
+Connection Config: Update the JDBC connection string in the configuration file with your MySQL credentials.
 
-Update the JDBC connection string in your configuration file with your MySQL credentials.
+Execute: Run Main.java or the Login Frame to launch the application.
 
-Run the App
+📁 Project Features Summary Professional Dark Teal High-Tech GUI
 
-Execute Login.java or Main.java to launch the application.
+Dual Registration Systems (Student/Faculty)
 
-🎬 Media & Links
-Project Demo: Watch on YouTube
+Integrated Fee Submission & Tracking
 
-Source Code: GitHub Repository
+Faculty Leave Management
 
-Note: This project was developed as a semester assignment for the Object-Oriented Programming (CSE-211) course at Sukkur IBA University to demonstrate proficiency in GUI design, database management, and software architecture.
+Semester-wise Result Management
+
+Robust MySQL Database Integration
+
+Clean OOP Architecture
+
+📌 Note This project was developed as a semester assignment for the Object-Oriented Programming (CSE-211) course at IBA Sukkur University to demonstrate proficiency in GUI design, database management, and software architecture.
+
+🔗 Links
+
+📺 YouTube Demo: [https://youtu.be/EToKcZM5FZY]
+💻 GitHub Repository: (https://github.com/nisar-ahmed01/java-project)
+
+📌 Note This project was developed as a semester assignment for the Object-Oriented Programming (CSE-211) course at IBA Sukkur University to demonstrate proficiency in GUI design, database management, and software architecture.
